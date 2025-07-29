@@ -1,7 +1,7 @@
 # PhenoMol
 Copyright (c) 2025 GE HealthCare
 
-The PhenoMol_v1 repository provides Python and R-scripts to integrate phenotypic data with multi-omic data via graph theory constrained by prior biological knowledge of molecular interactions and reactions. The graph theory approach is based on the work of the [Fraenkel Lab at MIT](https://github.com/fraenkel-lab) specifically omics integrator (OI). PhenoMol has been applied to predict elite physical performance in a healthy cohort with deep behavioral, cognitive, and molecular characterization that has been described in a manuscript that is currently under review and will be cited here once published. This repository contains the code used to generate the results of that analysis. This material is based upon work supported by the United States Air Force and Defense Advanced Research Projects Agency (DARPA) under Contract No. FA8650-19-C7945.
+The PhenoMol_v1 repository provides Python and R-scripts to integrate phenotypic data with multi-omic data via graph theory constrained by prior biological data of molecular interactions and reactions. The graph theory approach is based on the work of the [Fraenkel Lab at MIT](https://github.com/fraenkel-lab) specifically omics integrator (OI). PhenoMol has been applied to predict elite physical performance in a healthy cohort with deep behavioral, cognitive, and molecular characterization that has been described in a manuscript that is currently under review and will be cited here once published. This repository contains the code used to generate the results of that analysis. This material is based upon work supported by the United States Air Force and Defense Advanced Research Projects Agency (DARPA) under Contract No. FA8650-19-C7945.
 
 ## Getting Started
 
